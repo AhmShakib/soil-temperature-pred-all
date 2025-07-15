@@ -1,0 +1,20 @@
+3. Methodology
+
+3.1 Dataset Description  
+3.2 Data Preprocessing  
+3.3 Feature Engineering (sliding windows, lags)  
+3.4 Models Used  
+     - ARIMA
+     - Random Forest
+     - XGBoost
+     - LSTM
+     - GRU
+     - Prophet  
+3.5 Evaluation Metrics  
+3.6 Experimental Setup  
+3.7 Results and Comparison Table
+
+4. Discussion  
+     - Which model performed best  
+     - Possible reasons (non-linearity, memory of past inputs)  
+     - Pros and cons of each model
