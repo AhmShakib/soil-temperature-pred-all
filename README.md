@@ -22,6 +22,8 @@ This repository contains an implementation for predicting soil temperature using
 - scikit-learn
 - matplotlib
 - seaborn
+- tensorflow
+- keras
 
 You can install all required dependencies using:
 
